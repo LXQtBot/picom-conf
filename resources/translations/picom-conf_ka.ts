@@ -1,247 +1,247 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE TS>
-<TS version="2.1" language="pa">
+<TS version="2.1" language="ka">
 <context>
     <name>MainDialog</name>
     <message>
         <location filename="../../src/maindialog.ui" line="14"/>
         <source>Special Effect Settings</source>
-        <translation>ਖਾਸ ਪਰਭਾਵ ਸੈਟਿੰਗਾਂ</translation>
+        <translation>სპეციალური ეფექტის მორგება</translation>
     </message>
     <message>
         <location filename="../../src/maindialog.ui" line="367"/>
         <source>General</source>
-        <translation>ਆਮ</translation>
+        <translation>ზოგადი</translation>
     </message>
     <message>
         <location filename="../../src/maindialog.ui" line="373"/>
         <source>Use WM_CLIENT_LEADER to group windows</source>
-        <translation type="unfinished"></translation>
+        <translation>WM_CLIENT_LEADER-ის გამოყენება ფანჯრების დასაჯგუფებლად</translation>
     </message>
     <message>
         <location filename="../../src/maindialog.ui" line="380"/>
         <source>Detect _NET_WM_OPACITY on client windows</source>
-        <translation type="unfinished"></translation>
+        <translation>_NET_WM_OPACITY-ის დადგენა კლიენტის ფანჯრებზე</translation>
     </message>
     <message>
         <location filename="../../src/maindialog.ui" line="387"/>
         <source>Try to detect windows with rounded corners</source>
-        <translation>ਗੋਲ ਕੀਤੇ ਕੋਨਿਆਂ ਨਾਲ ਵਿੰਡੋ ਖੋਜਣ ਦੀ ਕੋਸ਼ਿਸ਼ ਕਰੋ</translation>
+        <translation>მომრგვალებულკუთხეებიანი ფანჯრების დადგენის ცდა</translation>
     </message>
     <message>
         <location filename="../../src/maindialog.ui" line="394"/>
         <source>Use WM_TRANSIENT_FOR to group windows</source>
-        <translation type="unfinished"></translation>
+        <translation>WM_TRANSIENT_FOR-ის გამოყენება ფანჯრების დასაჯგუფებლად</translation>
     </message>
     <message>
         <location filename="../../src/maindialog.ui" line="401"/>
         <source>Force all windows to be painted with blending</source>
-        <translation type="unfinished"></translation>
+        <translation>ფანჯრების შერევით ნაძალადევი დახატვა</translation>
     </message>
     <message>
         <location filename="../../src/maindialog.ui" line="408"/>
         <source>Mark windows that have no WM frame as active</source>
-        <translation type="unfinished"></translation>
+        <translation>ფანჯრების, რომლებსაც WM ცარჩო არ აქვთ, აქტიურად მონიშვნა</translation>
     </message>
     <message>
         <location filename="../../src/maindialog.ui" line="415"/>
         <source>Try to detect WM windows and mark them as active</source>
-        <translation type="unfinished"></translation>
+        <translation>WM ფანჯრების აღმოჩენის მცდელობა და მათი აქტიურად მონიშვნა</translation>
     </message>
     <message>
         <location filename="../../src/maindialog.ui" line="422"/>
         <source>Do not use EWMH to detect fullscreen windows</source>
-        <translation type="unfinished"></translation>
+        <translation>არ გამოიყენო EWMH სრულეკრანიანი ფანჯრების დასადგენად</translation>
     </message>
     <message>
         <location filename="../../src/maindialog.ui" line="429"/>
         <source>Use _NET_WM_ACTIVE_WINDOW to determine which window is focused</source>
-        <translation type="unfinished"></translation>
+        <translation>_NET_WM_ACTIVE_WINDOW-ის გამოყენება დასადგენად, რომელ ფანჯარას აქვს ფოკუსი</translation>
     </message>
     <message>
         <location filename="../../src/maindialog.ui" line="24"/>
         <location filename="../../src/maindialog.cpp" line="338"/>
         <source>Shadow</source>
-        <translation type="unfinished"></translation>
+        <translation>ჩრდილი</translation>
     </message>
     <message>
         <location filename="../../src/maindialog.ui" line="30"/>
         <source>Enable client-side shadows on windows</source>
-        <translation type="unfinished"></translation>
+        <translation>კლიენტის მხრის ჩრდილების ჩართვა ფანჯრებზე</translation>
     </message>
     <message>
         <location filename="../../src/maindialog.ui" line="37"/>
         <source>The blur radius for shadows</source>
-        <translation type="unfinished"></translation>
+        <translation>ბუნდოვნების რადიუსი ჩრდილებისთვის</translation>
     </message>
     <message>
         <location filename="../../src/maindialog.ui" line="47"/>
         <source>The left offset for shadows</source>
-        <translation type="unfinished"></translation>
+        <translation>მარცხენა წანაცვლება ჩრდილებისთვის</translation>
     </message>
     <message>
         <location filename="../../src/maindialog.ui" line="61"/>
         <source>The top offset for shadows</source>
-        <translation type="unfinished"></translation>
+        <translation>ზედა წანაცვლება ჩრდილებისთვის</translation>
     </message>
     <message>
         <location filename="../../src/maindialog.ui" line="75"/>
         <source>The translucency for shadows</source>
-        <translation type="unfinished"></translation>
+        <translation>ნახევრადგამჭვირვალობა ჩრდილებისთვის</translation>
     </message>
     <message>
         <location filename="../../src/maindialog.ui" line="92"/>
         <source>Color of shadow</source>
-        <translation type="unfinished"></translation>
+        <translation>ჩრდილის ფერი</translation>
     </message>
     <message>
         <location filename="../../src/maindialog.ui" line="106"/>
         <source>Crop shadows of maximized windows from extended displays</source>
-        <translation type="unfinished"></translation>
+        <translation>მთელ ეკრანზე გადიდებული ფანჯრის ჩრდილების ამოჭრა გაფართოებული ეკრანებისთვის</translation>
     </message>
     <message>
         <location filename="../../src/maindialog.ui" line="114"/>
         <location filename="../../src/maindialog.ui" line="526"/>
         <source>Opacity</source>
-        <translation type="unfinished"></translation>
+        <translation>გაუმჭირვალობა</translation>
     </message>
     <message>
         <location filename="../../src/maindialog.ui" line="120"/>
         <source>Default opacity of inactive windows</source>
-        <translation type="unfinished"></translation>
+        <translation>არააქტიური ფანჯრების ნაგულისხმევი გაუმჭვირვალობა</translation>
     </message>
     <message>
         <location filename="../../src/maindialog.ui" line="137"/>
         <source>Default opacity for active windows</source>
-        <translation type="unfinished"></translation>
+        <translation>აქტიური ფანჯრების ნაგულისხმევი გაუმჭვირვალობა</translation>
     </message>
     <message>
         <location filename="../../src/maindialog.ui" line="154"/>
         <source>Opacity of window titlebars and borders</source>
-        <translation type="unfinished"></translation>
+        <translation>ფანჯრის სათაურის ზოლებისა და ჩარჩოს გაუმჭვირვალობა</translation>
     </message>
     <message>
         <location filename="../../src/maindialog.ui" line="171"/>
         <source>Dim inactive windows</source>
-        <translation type="unfinished"></translation>
+        <translation>არააქტიური ფანჯრების მინავლება</translation>
     </message>
     <message>
         <location filename="../../src/maindialog.ui" line="188"/>
         <source>Do not let dimness adjust based on window opacity</source>
-        <translation type="unfinished"></translation>
+        <translation>მინავლება არ იქნება დამოკიდებული ფანჯრის გაუმჭვირვალობაზე</translation>
     </message>
     <message>
         <location filename="../../src/maindialog.ui" line="195"/>
         <source>Blur background of transparent windows</source>
-        <translation type="unfinished"></translation>
+        <translation>გამჭვირვალე ფანჯრების ფონის გაბუნდოვნება</translation>
     </message>
     <message>
         <location filename="../../src/maindialog.ui" line="202"/>
         <source>Blur background of opaque windows with transparent frames as well</source>
-        <translation type="unfinished"></translation>
+        <translation>გაუმჭვირვალე ფანჯრის ფონი ასევე იქნება ბუნდოვანი გამჭვირვალე ჩარჩოებით</translation>
     </message>
     <message>
         <location filename="../../src/maindialog.ui" line="209"/>
         <source>Do not let blur radius adjust based on window opacity</source>
-        <translation type="unfinished"></translation>
+        <translation>ბუნდოვნების რადიუსი ფანჯრის გაუმჭვირვალობაზე დამოკიდებული არ იქნება</translation>
     </message>
     <message>
         <location filename="../../src/maindialog.ui" line="337"/>
         <source>Advanced</source>
-        <translation>ਤਕਨੀਕੀ</translation>
+        <translation>დამატებით</translation>
     </message>
     <message>
         <location filename="../../src/maindialog.ui" line="439"/>
         <source>Backends</source>
-        <translation>ਬੈਕਐਂਡ</translation>
+        <translation>უკანაბოლოები</translation>
     </message>
     <message>
         <location filename="../../src/maindialog.ui" line="532"/>
         <source>Inactive opacity set by -i overrides _NET_WM_OPACITY values</source>
-        <translation type="unfinished"></translation>
+        <translation>არააქტიური გაუმჭვირვალობა, რომელიც პარამეტრით -i დააყენეთ, გადაფარავს _NET_WM_OPACITY-ის მნიშნველობებს</translation>
     </message>
     <message>
         <location filename="../../src/maindialog.ui" line="217"/>
         <location filename="../../src/maindialog.ui" line="510"/>
         <location filename="../../src/maindialog.cpp" line="334"/>
         <source>Fade</source>
-        <translation type="unfinished"></translation>
+        <translation>მინავლება</translation>
     </message>
     <message>
         <location filename="../../src/maindialog.ui" line="223"/>
         <source>Fade windows during opacity changes</source>
-        <translation type="unfinished"></translation>
+        <translation>ფანჯრების მინავლება გაუმჭვირვალობის ცვლილებისას</translation>
     </message>
     <message>
         <location filename="../../src/maindialog.ui" line="230"/>
         <source>The time between steps in a fade in milliseconds</source>
-        <translation type="unfinished"></translation>
+        <translation>დრო მინავლების ნაბიჯებს შორის მილიწამებში</translation>
     </message>
     <message>
         <location filename="../../src/maindialog.ui" line="240"/>
         <source>Opacity change between steps while fading in</source>
-        <translation type="unfinished"></translation>
+        <translation>გაუმჭვირვალოცის ცვლილება ნაბიჯებს შორის მინავლებისას</translation>
     </message>
     <message>
         <location filename="../../src/maindialog.ui" line="263"/>
         <source>Opacity change between steps while fading out</source>
-        <translation type="unfinished"></translation>
+        <translation>გაუმჭვირვალობის ცვლილება ნაბიჯებს შორის გამოჩენისას</translation>
     </message>
     <message>
         <location filename="../../src/maindialog.ui" line="286"/>
         <source>Avoid fade windows in/out when opening/closing</source>
-        <translation type="unfinished"></translation>
+        <translation>ფანჯრების მინავლება/გამოჩენის ტავიდან აცილება გახსნა/დახურვისას</translation>
     </message>
     <message>
         <location filename="../../src/maindialog.ui" line="516"/>
         <source>Do not fade destroyed ARGB windows with WM frame</source>
-        <translation type="unfinished"></translation>
+        <translation>WM ჩარჩოს მქონე ARGB ფანჯრების მინავლება არ მოხდება</translation>
     </message>
     <message>
         <location filename="../../src/maindialog.ui" line="542"/>
         <source>Optimize</source>
-        <translation type="unfinished"></translation>
+        <translation>ოპტიმიზაცია</translation>
     </message>
     <message>
         <location filename="../../src/maindialog.ui" line="548"/>
         <source>Enable/disable VSync</source>
-        <translation type="unfinished"></translation>
+        <translation>VSync-ის ჩართვა/გამორთვა</translation>
     </message>
     <message>
         <location filename="../../src/maindialog.ui" line="555"/>
         <source>Use glFinish() instead of glFlush() for (possibly) better VSync</source>
-        <translation type="unfinished"></translation>
+        <translation>უკეთესი Vsync-სთვის glFlush()-ის მაგიერ (ალბათ) glFinish() გამოიყენეთ</translation>
     </message>
     <message>
         <location filename="../../src/maindialog.ui" line="562"/>
         <source>Enable the use of damage information to help limit the area to paint</source>
-        <translation type="unfinished"></translation>
+        <translation>ზიანის ინფორმაციის გამოყენების ჩართვა დასახატი ადგილის შემოსაზღვრის დასახმარებლად</translation>
     </message>
     <message>
         <location filename="../../src/maindialog.ui" line="294"/>
         <source>Backend</source>
-        <translation type="unfinished"></translation>
+        <translation>უკანაბოლო</translation>
     </message>
     <message>
         <location filename="../../src/maindialog.ui" line="300"/>
         <source>Rendering backend</source>
-        <translation type="unfinished"></translation>
+        <translation>რენდერის უკანაბოლო</translation>
     </message>
     <message>
         <location filename="../../src/maindialog.ui" line="306"/>
         <location filename="../../src/maindialog.ui" line="445"/>
         <source>X Render</source>
-        <translation type="unfinished"></translation>
+        <translation>X-ით რენდერი</translation>
     </message>
     <message>
         <location filename="../../src/maindialog.ui" line="313"/>
         <source>GLX (OpenGL)</source>
-        <translation type="unfinished"></translation>
+        <translation>GLX (OpenGL)</translation>
     </message>
     <message>
         <location filename="../../src/maindialog.ui" line="451"/>
         <source>Use X Sync fence to sync clients&apos; draw calls (nvidia drivers)</source>
-        <translation type="unfinished"></translation>
+        <translation>X sync-ის გამოყენება კლიენტების ხატვის გამოსძახებებისთვის (nvidia-ის დრაივერები)</translation>
     </message>
     <message>
         <location filename="../../src/maindialog.ui" line="461"/>
@@ -251,62 +251,62 @@
     <message>
         <location filename="../../src/maindialog.ui" line="467"/>
         <source>Avoid rebinding pixmap on window damage</source>
-        <translation type="unfinished"></translation>
+        <translation>პიქსელების რუკის თავიდან მიბმის აცილება ფანჯრის დაზიანებისას</translation>
     </message>
     <message>
         <location filename="../../src/maindialog.ui" line="474"/>
         <source>Avoid using stencil buffer</source>
-        <translation type="unfinished"></translation>
+        <translation>ნიმუშის ბუფერის გამოყენების თავიდან აცილება</translation>
     </message>
     <message>
         <location filename="../../src/maindialog.ui" line="487"/>
         <source>Debug</source>
-        <translation type="unfinished"></translation>
+        <translation>პროგრამის შეცდომის პოვნა</translation>
     </message>
     <message>
         <location filename="../../src/maindialog.ui" line="493"/>
         <source>Highlight the updated area of the screen. X Render only</source>
-        <translation type="unfinished"></translation>
+        <translation>ეკრანის განახლებადი ალაგის გამოკვეთა. მხოლოდ, X-ის რენდერისას</translation>
     </message>
     <message>
         <location filename="../../src/maindialog.ui" line="500"/>
         <source>Show all X errors</source>
-        <translation type="unfinished"></translation>
+        <translation>ყველა X-ის შეცდომის ჩვენება</translation>
     </message>
     <message>
         <location filename="../../src/maindialog.ui" line="582"/>
         <source>About</source>
-        <translation>ਇਸ ਬਾਰੇ</translation>
+        <translation>შესახებ</translation>
     </message>
     <message>
         <location filename="../../src/maindialog.cpp" line="327"/>
         <source>Opacity:</source>
-        <translation type="unfinished"></translation>
+        <translation>გაუმჭირვალობა:</translation>
     </message>
     <message>
         <location filename="../../src/maindialog.cpp" line="333"/>
         <source>Clip shadow above</source>
-        <translation type="unfinished"></translation>
+        <translation>ჩრდილის წაჭრა ზემოდან</translation>
     </message>
     <message>
         <location filename="../../src/maindialog.cpp" line="335"/>
         <source>Focus</source>
-        <translation>ਫੋਕਸ</translation>
+        <translation>ფოკუსი</translation>
     </message>
     <message>
         <location filename="../../src/maindialog.cpp" line="336"/>
         <source>Full shadow</source>
-        <translation type="unfinished"></translation>
+        <translation>სრული ჩრდილი</translation>
     </message>
     <message>
         <location filename="../../src/maindialog.cpp" line="337"/>
         <source>Ignore redirection</source>
-        <translation type="unfinished"></translation>
+        <translation>გადამისამართების გამოტოვება</translation>
     </message>
     <message>
         <location filename="../../src/maindialog.cpp" line="443"/>
         <source>Window Types</source>
-        <translation type="unfinished"></translation>
+        <translation>ფანჯრის ტიპები</translation>
     </message>
 </context>
 <context>
@@ -314,7 +314,7 @@
     <message>
         <location filename="../../src/dialogabout.ui" line="27"/>
         <source>Information</source>
-        <translation>ਜਾਣਕਾਰੀ</translation>
+        <translation>ინფორმაცია</translation>
     </message>
     <message>
         <location filename="../../src/dialogabout.ui" line="43"/>
@@ -324,32 +324,32 @@
     <message>
         <location filename="../../src/dialogabout.ui" line="62"/>
         <source>Thanks</source>
-        <translation>ਧੰਨਵਾਦ</translation>
+        <translation>მადლობა</translation>
     </message>
     <message>
         <location filename="../../src/dialogabout.ui" line="81"/>
         <source>qrc:/thanks.html</source>
-        <translation type="unfinished"></translation>
+        <translation>qrc:/thanks.html</translation>
     </message>
     <message>
         <location filename="../../src/dialogabout.ui" line="100"/>
         <source>License</source>
-        <translation>ਲਸੰਸ</translation>
+        <translation>ლიცენზია</translation>
     </message>
     <message>
         <location filename="../../src/dialogabout.ui" line="116"/>
         <source>qrc:/license.html</source>
-        <translation type="unfinished"></translation>
+        <translation>qrc:/license.html</translation>
     </message>
     <message>
         <location filename="../../src/dialogabout.cpp" line="55"/>
         <source>Author</source>
-        <translation>ਲੇਖਕ</translation>
+        <translation>ავტორი</translation>
     </message>
     <message>
         <location filename="../../src/dialogabout.cpp" line="60"/>
         <source>About</source>
-        <translation>ਇਸ ਬਾਰੇ</translation>
+        <translation>შესახებ</translation>
     </message>
 </context>
 </TS>
